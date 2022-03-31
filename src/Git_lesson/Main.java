@@ -9,7 +9,7 @@ public class Main {
     }
     
     public static void another() {
-    System.out.println("Hello QA GURU");
+    System.out.println("HELLO");
     }
     
 }
