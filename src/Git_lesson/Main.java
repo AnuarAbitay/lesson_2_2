@@ -9,8 +9,7 @@ public class Main {
     }
     
     public static void another() {
-
-        System.out.println("method");
+    System.out.println("HELLO");
     }
     
 }
